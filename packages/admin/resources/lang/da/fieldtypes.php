@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'text.label' => '',
+    'translated-text.label' => '',
+    'number.label' => '',
+    'list.label' => '',
+    'dropdown.label' => '',
+    'dropdown.missing_labels' => '',
+    'dropdown.value_placeholder' => '',
+    'file.label' => '',
+    'file.max_files.label' => '',
+    'file.choose_assets' => '',
+    'file.uploads_empty' => '',
+    'file.select_files' => '',
+    'dropdown.label_heading' => '',
+    'dropdown.value_heading' => '',
+    'dropdown.add_row_btn' => '',
+    'dropdown.empty_selection' => '',
+    'toggle.label' => '',
+    'toggle.empty_notice' => '',
+    'toggle.on_label' => '',
+    'toggle.off_label' => '',
+    'youtube.label' => '',
+    'richtext.config' => '',
+];
